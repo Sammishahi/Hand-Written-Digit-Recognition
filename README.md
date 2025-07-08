@@ -41,12 +41,7 @@ This project focuses on classifying hand-written digits (0–9) using deep learn
 
 ---
 
-## 🛠️ Installation & Running
 
-### 1. Clone the Repository
-```bash
-git clone https://github.com/Sammishahi/Hand-Written-Digit-Recognition.git
-cd Hand-Written-Digit-Recognition
 ## 🧪 Libraries Used
 - TensorFlow / Keras  
 - NumPy  
@@ -57,15 +52,9 @@ cd Hand-Written-Digit-Recognition
 ## 🙋‍♂️ Author
 **Sammi Kumar**  
 GitHub: [@Sammishahi](https://github.com/Sammishahi)
-
----
-
-## 📜 License
-This project is licensed under the **MIT License** – feel free to use and modify it.
-
 ---
 
 ## 💡 Future Improvements
 - Add confusion matrix and classification report  
 - Try deeper models like VGG16/ResNet  
-- Add GUI or web app using Streamlit/Gradio  
+ 
